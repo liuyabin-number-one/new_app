@@ -1,7 +1,5 @@
 <?php
-
-echo "1111111";
-
+echo phpinfo();
 
 ?>
 
